@@ -1,9 +1,10 @@
 {
-  "version": "1.0.2",
-  "exe_url": "https://www.dropbox.com/scl/fi/51tsaeplgze5av4x6rfb9/macro.exe?rlkey=c92yz2xvmicjvh34ay03jtogk&st=r9qkmiit&dl=1",
-  "sha256": "89db8480af6e1b8789f9ce177d667731371fa2436db005411b6f75878277fb89",
+  "version": "1.0.3",
+  "exe_url": "https://www.dropbox.com/scl/fi/ndovtx6xkmiwj2xlwjimy/macro.exe?rlkey=dyqm53obtl77pooapswubzczr&st=e86t2gnb&dl=1",
+  "sha256": "c78763b9a007c0b365a96a48e457defa4295e46437c52910d371db0b362c3afa",
   "notes": "Фикс багов и улучшение производительности."
 }
+
 
 
 
