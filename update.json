@@ -1,9 +1,10 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "exe_url": "https://drive.google.com/uc?export=download&id=1LuX55_eq6b9zf-dCGFgy7ld93HWGA5dT",
   "sha256": "312c9be038506013107a981d62e35f0f2330699a6c93b7a610865acf34570dd9",
   "notes": "Фикс багов и улучшение производительности."
 }
+
 
 
 
