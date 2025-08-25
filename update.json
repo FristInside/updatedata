@@ -1,9 +1,10 @@
 {
   "version": "1.0.3",
   "exe_url": "https://www.dropbox.com/scl/fi/gkaeu5itrfy8hp119jfcr/macro.exe?rlkey=a57wdsg9818ue1rjniwek26ur&st=1rd31r63&dl=1",
-  "sha256": "312c9be038506013107a981d62e35f0f2330699a6c93b7a610865acf34570dd9",
+  "sha256": "50ce23921ec5a622d613d45ac0fcbdb7487fd6871a7f209ab394eb5a29ac444e",
   "notes": "Фикс багов и улучшение производительности."
 }
+
 
 
 
