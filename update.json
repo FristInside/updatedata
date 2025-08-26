@@ -1,9 +1,10 @@
 {
-  "version": "1.0.5",
-  "exe_url": "https://www.dropbox.com/scl/fi/f25db45sx6msqgxb4rsny/macros.exe?rlkey=78b4tjjv1h9nhlwzqfptkwdtk&st=hmhlz1v5&dl=1",
-  "sha256": "b1ae1956945bb8fab975567496b3a18a9baf61955814a72b66afc3bf4927c257",
-  "notes": "[+] Добавлен лаунчер загрузкию \n[/] Исправленые баги. \n[+] Выход в первую бету. \n [/] Фикс бага со звуком."
+  "version": "1.0.6",
+  "exe_url": "https://www.dropbox.com/scl/fi/xrvetrnqr9eatajysgquf/macros.exe?rlkey=hx6zmov4h19j7rj5sznktiv1e&st=eagrkg2j&dl=1",
+  "sha256": "4b35c842ffe5e5161226ececf6575e73ee06a10e66feba08bb6746c2d7a76640",
+  "notes": "[+] Добавлен лаунчер загрузкию \n[/] Исправленые баги. \n[+] Выход в первую бету. \n[/] Фикс бага со звуком. \n[/] Фикс бага с регистрацией. \n[/] Фикс бага с COM-портами. \n\n\n\n От: 26.08.2025"
 }
+
 
 
 
