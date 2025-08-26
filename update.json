@@ -1,9 +1,10 @@
 {
-  "version": "1.0.4",
-  "exe_url": "https://www.dropbox.com/scl/fi/ndovtx6xkmiwj2xlwjimy/macro.exe?rlkey=dyqm53obtl77pooapswubzczr&st=e86t2gnb&dl=1",
-  "sha256": "c78763b9a007c0b365a96a48e457defa4295e46437c52910d371db0b362c3afa",
-  "notes": "[+] Добавлен лаунчер загрузкию \n[/] Исправленые баги. \n[+] Выход в первую бету."
+  "version": "1.0.5",
+  "exe_url": "https://www.dropbox.com/scl/fi/f25db45sx6msqgxb4rsny/macros.exe?rlkey=78b4tjjv1h9nhlwzqfptkwdtk&st=hmhlz1v5&dl=1",
+  "sha256": "b1ae1956945bb8fab975567496b3a18a9baf61955814a72b66afc3bf4927c257",
+  "notes": "[+] Добавлен лаунчер загрузкию \n[/] Исправленые баги. \n[+] Выход в первую бету. \n [/] Фикс бага со звуком."
 }
+
 
 
 
